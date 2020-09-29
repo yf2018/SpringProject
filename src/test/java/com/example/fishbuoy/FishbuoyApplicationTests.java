@@ -22,4 +22,5 @@ class FishbuoyApplicationTests {
         logger.error("这是error日志");
 //        E:\VueSpring\Spring\src\main\java\com\example\fishbuoy
     }
+
 }

@@ -7,7 +7,5 @@ public class FishbuoyApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(FishbuoyApplication.class, args);
-
     }
 }
-
