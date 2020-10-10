@@ -20,7 +20,6 @@ class FishbuoyApplicationTests {
         logger.info("这是info日志");
         logger.warn("这是warn日志");
         logger.error("这是error日志");
-//        E:\VueSpring\Spring\src\main\java\com\example\fishbuoy
+//      E:\VueSpring\Spring\src\main\java\com\example\fishbuoy
     }
-
 }
