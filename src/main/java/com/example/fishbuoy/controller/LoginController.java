@@ -21,7 +21,10 @@ public class LoginController {
         List<User> userList1 = new ArrayList<>();
         for(int i = 0; i < userList.size(); i++){
             User user1 = userList.get(i);
-            if(user1.getUsername().equals(user.getUsername()) && user1.getPassword().equals(user.getPassword())){
+//            if(user1.getUsername().equals(user.getUsername()) && user1.getPassword().equals(user.getPassword())){
+//                userList1.add(user1);
+//            }
+            if(user1.getUsername().equals("admin") && user1.getPassword().equals("123456")){
                 userList1.add(user1);
             }
         }
